@@ -1,0 +1,45 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Arthur",
+      "img": "https://lh3.googleusercontent.com/gCIm6-Y9kTxeBUh2ww6MjfCnB5fHAoo8OSsiePSYYTm3le4lEiu1tBWxnua5EZIF918lSqHQ9CilaAswzqPT9TqCWUSYHKVyaTXFDLkbXXIJd_DujBl6rRGaMaiFyk_IU3DuQXDd057zuMDEAL_0jgMHBGsujmn0zH-qeH3Zlgtj8llK-tJtFM5lA2p0Lm5FQUjFgTW1QLGTTNdGvzs2rPQxt_4LyAo6O5bVVPirlAD-NlmKWyIGbuNL5zWPLwoDOjeohlYVKUFcfO5lgFkopPTKB0WgzrVNlwJjLZ5rkE1VXE0PKNnzzwqTylwo2QmhNje8J3TNtwO8xHCiDn_kwntxVrhiTPx_B5WaSlzJWlVzWHamb79F_Py5vpgGFzeTyO2_j8A0E6TG8BrYHhwzwsdhR1IF_fdt3XV6UycNhPsrCOl7d3wSG1qta_kJhhx3lF5v2G9fWVclCDsDVPL93d15jQnGJgUiGmVKoxv6YMisXpHq3VBcLYWOlRZZId_-IvaUDg6F-qC3jgg9vElD9oNYwYtH-zTrD8dvDHKrPZJvlzNnLseVdstOD5pYwC_-L5guMRQ8U6vruOvicMQU60EnJDjQV9C2IILHkGAmQdMZdvEDmEE6USX4KTthz7-2dKqOjxr_-4DraTMIk5vcePil-Q0FeYHwIAk7NWixc-iw6vKGvbsrYunLCup664w=w546-h969-no",
+      "email": "arthur@gmail.com",
+      "cep": "31620350",
+      "password": "arthur123"
+    },
+    {
+      "id": 2,
+      "name": "Leticia",
+      "img": "https://lh3.googleusercontent.com/ljFW72jssN1QhiEUTxOk0_qZXCSuwdDUH3HoJdW9ZNtBsq79HbABZhfLmLT5-RRHS8DyMMvFt8HFOc_YXCp9mnH1RAi1YnXe7Mf0Co4ocl-NNpojFYIOnirjMTuWxkb3eAleaeWSHk2yBJh9qgmZcv6rHRlG6XPThFXvFW51ghsWiaDvfncBKba9S-E08tmiYBjXUptSw5-kAx7tSt4ZgkJwKliOiEIsCkXD2MNRTrAoCUF24eNtxZZLJkqZ2UBqjFEp5D3pVHAaXajWR5KhivT1K0AUw7ECi5Vr50NXqWCAszsJc5pej9AUPWb5Q17bA6LvG8AY67jTDm6EulGJddFr_lfyIYP_628kbAEfcuiC_BDToYL9xJYIIKE1w5yykyeug0rAhgs72JMaNVAZP9UK1lmc-gtl3OUCFbJ21FkL8D5HVutRSQHgvnSsN2oFnScvQa7DoP5Hgt2xdhdizH-Ir6FN-9f0WmtS9UHXekXM8l06AwFon4gkmKiSLXZtWUteWYjrMCDYamLXp2AyNp80i1WG1V5oKbMGP6pT7QdokVS3pUSykZPF24U5fczTwFGyHxm5ezytLwErOigcuNkHa6Nmop4UYi9yIRg0xe9m9wbuKYV0D6BICykh3J82xFFLbZMhzUO17i4PUw7skciujuCY3RMg5JUz7T9bZuPn5Y0G8JY9qduuXcEtL60=w546-h969-no",
+      "email": "leticia@gmail.com",
+      "cep": "31560220",
+      "password": "leticia123"
+    },
+    {
+      "id": 3,
+      "name": "Caio",
+      "img": "https://lh3.googleusercontent.com/3BQYHu-hD8ZjMsbNS-82z1X-SNZICVafHcE10VIGU8rlR3-BcFCUJK4dVN2u1QE6KkaPKgoEunu0c5XuyM2ln8IeWkHury40q94h7kwT5up-EkrCBLKdr3rk-VwBFIYUS8RHrJlELvmAqeG7_IsEfrnkAtqUmRlugma3OIFJr1i1kqItxfj9yXNw7SV6pdkyUC7d_yE97g1DXy8BAw0u64_8Xhti0OGNCUPiD2wQdCPASncLvZpehPWzdHgYbj1WZzN7uWU2A7HZ4hZXoD2yUz-gsFxBaBsV8tV7dlONGaYYE9IVfzl1mp2yAvVC1N21dgg8jOjptcvcgNR1VB5PHlkee9w3fEPc5DysytJbMqeb9FeoBrwDXiOolmWnZoAu1V8D1bZReqUWj5DIQ8ShBL_TPNfbuRfCjucuj8StOIKEIEsDOiqaC10qxEpBYIfKj16l18ekoPNYqAQv5TFn2VFfLhxSvoHxLyMzal7Nw-bzJ8fx8AykDM1opcbAtyr6td2KN5PdRoLdYkjOrwvow74pD0OXLDg8ne4rmWz2ictjADFgi2n51Dj-uiliAmeAlux9CApXtMazv2P13GJCi7M5hvcmh9-PrvcTAKe_8xBSu9KbU41sgDr2_N_gcxmYMGz1wepgM_PJvLFjgZTaToRgRQuvRhucf7Ki7v1ggmUIQTbN9iCU1r98MyvjeP0=w840-h969-no",
+      "email": "caio@gmail.com",
+      "cep": "31560220",
+      "password": "caio123"
+    },
+    {
+      "name": "Arthur Mendes",
+      "email": "arthu@gmail.com",
+      "cep": "31620350",
+      "password": "arthu125",
+      "id": 4
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Bicicleta",
+      "description": "CALOI",
+      "img": "https://images.unsplash.com/photo-1485965120184-e220f721d03e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80",
+      "count": 20,
+      "price": 3000
+    }
+  ]
+}

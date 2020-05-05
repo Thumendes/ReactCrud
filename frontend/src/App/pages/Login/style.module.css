@@ -1,0 +1,19 @@
+.container{
+    display: flex;
+    height: 100vh;
+}
+.background{
+    width: 50vw;
+    background: linear-gradient(135deg,var(--primary), var(--secondary));
+}
+.formTela{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    width: 50vw;
+}
+.form{
+    display: flex;
+    margin: 10px 0;
+}
